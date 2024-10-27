@@ -1,4 +1,4 @@
-## Notice of Project Maintenance
+# Notice of Project Maintenance
 
 This software is no longer maintained here. You can find more recent versions in the official repositories of Kali Linux or ArchStrike:
 
